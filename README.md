@@ -31,21 +31,17 @@ Park Street, State, Downtown Crossing, Chinatown, Back Bay, Forest Hills
 -   All 3 subway lines intersect at *Park Street*, but there are no other
  intersection points. Some of this MBTA is fictionalized.
 
-## Checking your solution
+ ## Hints
 
-Run `grunt test`.
-
-## Hints
-
--   Assume good input.  Your function need not check the validity of the line or
- stop.
--   Consider diagramming the lines by sketching out the subway lines and their
- stops and intersection.
--   Subway lines are keys in a dictionary (object literal), while the values are
- a list (array) of all the stops on each line.
--   The key to the practice is to find the **intersection** of the lines at
- *Park Street*.
--   Solve an easier problem first.
+ -   Assume good input.  Your function need not check the validity of the line or
+  stop.
+ -   Consider diagramming the lines by sketching out the subway lines and their
+  stops and intersection.
+ -   Subway lines are keys in a dictionary (object literal), while the values are
+  a list (array) of all the stops on each line.
+ -   The key to the practice is to find the **intersection** of the lines at
+  *Park Street*.
+ -   Solve an easier problem first.
 
 ## Bonus
 
@@ -54,6 +50,15 @@ Think about adding Haymarket before Government Center on the Green line then try
 Is there a way to decide if a particular solution is "correct"?
 
 This bonus is completely optional and does not have tests, yet.
+
+## Tasks
+
+Developers should run these often!
+
+-   `grunt nag` or just `grunt`: runs code quality analysis tools on your code
+    and complains.
+-   `grunt reformat`: reformats all your code in a standard style.
+-   `grunt test`: runs any automated tests; may depend on `grunt build`.
 
 ## [License](LICENSE)
 
