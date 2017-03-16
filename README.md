@@ -2,6 +2,9 @@
 
 # MBTA practice
 
+## Prerequisites
+-   [Sesame Street Subway Song](https://www.youtube.com/watch?v=mNBVTCJ9Dks)
+
 ## Objectives
 
 -   Practice with functions, lists (arrays), and  dictionaries (object literal).
