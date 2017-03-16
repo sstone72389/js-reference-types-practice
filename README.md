@@ -1,21 +1,20 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# MBTA practice
+# MBTA Practice
 
 ## Prerequisites
 -   [Sesame Street Subway Song](https://www.youtube.com/watch?v=mNBVTCJ9Dks)
 
 ## Objectives
 
--   Practice with functions, lists (arrays), and  dictionaries (object literal).
--   When you complete the practice, please submit a pull request.
+-   Practice with functions, lists (arrays), and dictionaries (object literal).
 
 ## Instructions
 
 1.  Fork and clone this repository.
 1.  Change into the new directory.
 1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [`study.md`](study.md).
+1.  Follow the directions given in this file.
 1.  When finished, push to your fork and submit a pull request.
 
 ## Activity
